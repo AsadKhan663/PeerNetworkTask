@@ -52,7 +52,6 @@ This layered approach ensures that UI code remains clean and free from networkin
 
 Follow these steps to set up and run the project locally:
 
-### 🧰 Requirements
 1. **Clone the repository**
 
    ```bash
